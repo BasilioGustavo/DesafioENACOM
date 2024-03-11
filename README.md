@@ -1,6 +1,6 @@
 # ENACOM - Bootcamp Seletivo Data Analytics 2024
 
-Projeto de desenvolvimento de modelos preditivos para geração de energia elétrica no Brasil, de acordo com a [base pública](https://dados.ons.org.br/dataset/geracao-usina-2) do Operador Nacional do Sistema Elétrico (ONS). 
+Projeto de desenvolvimento de modelos preditivos para geração de energia elétrica no Brasil, de acordo com a base pública do Operador Nacional do Sistema Elétrico (ONS). 
 
 ## 🚀 Começando
 
