@@ -21,8 +21,7 @@ pip install -r requirements.txt
 
 ### ⚙️ Fonte de dados
 
-* [ONS](/dados/ons/) - Dados brutos
-* [Concatenados](/dados/concatenado/) - Dados em base única
+* [ONS]([/dados/ons/](https://dados.ons.org.br/dataset/geracao-usina-2)) - Dados brutos (2000-2020)
 * [Reamostrados](/dados/reamostrados/) - Dados na frequência mensal
 * [Segmentados](/dados/segmentados/) - Dados segmentados por fontes
 
